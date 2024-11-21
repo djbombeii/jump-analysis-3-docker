@@ -1,1 +1,6 @@
-
+analysis_results/*
+!analysis_results/.gitkeep
+.DS_Store
+__pycache__/
+*.pyc
+output_with_overlays.mp4
